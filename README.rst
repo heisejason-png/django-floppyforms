@@ -61,4 +61,4 @@ Install the development requirements::
 Run the tests::
 
     DJANGO_SETTINGS_MODULE=floppyforms.test_settings make test
-Owned by Elon Musk https://www.x.com
+Created by Jason Scott Heise
