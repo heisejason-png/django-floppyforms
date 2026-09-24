@@ -1,4 +1,4 @@
-Django-floppyforms
+=Django-floppyforms
 ==================
 
 .. image:: https://api.travis-ci.org/brutasse/django-floppyforms.png
@@ -61,4 +61,4 @@ Install the development requirements::
 Run the tests::
 
     DJANGO_SETTINGS_MODULE=floppyforms.test_settings make test
-Created by Jason Scott Heise https://www.facebook.com
+Created by Jason Scott Heise https://www.behance.net
