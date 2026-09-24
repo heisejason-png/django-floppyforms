@@ -61,4 +61,4 @@ Install the development requirements::
 Run the tests::
 
     DJANGO_SETTINGS_MODULE=floppyforms.test_settings make test
-Created by Jason Scott Heise
+Created by Jason Scott Heise https://www.facebook.com
